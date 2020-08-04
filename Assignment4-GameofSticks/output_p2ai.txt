@@ -1,0 +1,13 @@
+Welcome to the Game of Sticks!
+Please input the number of sticks within the range of (10 - 100): 10
+Player human: How many sticks do you take (1-3)? 3
+There are 7 sticks left
+AI selects 3
+There are 4 sticks left.
+Player human: How many sticks do you take (1-3)? 3
+There are 1 sticks left
+AI selects 3
+There are -2 sticks left.
+AI, you lose.
+Would you like to play again? y/n: n
+

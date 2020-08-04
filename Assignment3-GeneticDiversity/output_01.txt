@@ -1,0 +1,17 @@
+Group 1:  86
+Student 5 : 95
+Student 6 : 86
+Student 9 : 78
+
+Group 2:  11
+Student 0 : 8
+Student 1 : 12
+Student 2 : 11
+Student 4 : 22
+
+Group 3:  40
+Student 3 : 47
+Student 7 : 40
+Student 8 : 33
+
+Fitness:  46
